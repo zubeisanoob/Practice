@@ -9,4 +9,4 @@ Practice programs for CPJava course
 ### 4.  Keep the versions updated even if your code is not working. This way I can help debug and offer suggestions.  
 
 [addfile]: addfile.png "addfile"
-[clonerep]: clofile.png "clonefile"
+[clonerep]: clonerep.png "clonerep"
